@@ -39,7 +39,16 @@ main {
     font-size: 14px;
     margin-left: 0.4em;
 }
-
+.tag-badchip {
+    font-size: 14px;
+    margin-left: 0.4em;
+    background-color: red;
+}
+.tag-goodchip {
+    font-size: 14px;
+    margin-left: 0.4em;
+    background-color: blue;
+}
 .word-submission {
     font-size: 30px;
     color: orange;
